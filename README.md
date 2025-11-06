@@ -413,14 +413,14 @@ El sistema está diseñado para:
 
 Para preguntas o problemas:
 - 📧 Email: soporte@financorp.com
-- 📱 Teléfono: +34 XXX XXX XXX
+- 📱 Teléfono: +51 365 365 365
 - 🌐 Web: www.financorp.com
 
 ---
 
 ## 📄 Licencia
 
-Este proyecto es propiedad de **FinanCorp S.A.** - Todos los derechos reservados © 2024
+Este proyecto es propiedad de **FinanCorp S.A.** - Todos los derechos reservados © 2025
 
 ---
 
